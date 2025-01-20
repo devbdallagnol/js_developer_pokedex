@@ -2,9 +2,11 @@
 
 <hr>
 
-# Javascript|API - Projeto Pokedex
+# Javascript | API - Projeto Pokedex
 
-Bem-vindo ao "Projeto Pokedex"! 🚀 Este é um repositório dedicado ao projeto Javascript com consumo de API, ministrado por Renan Johannsen.
+Bem-vindo ao "Projeto Pokedex"! 🚀 
+
+Este é um repositório dedicado ao projeto Javascript com consumo de API, ministrado por Renan Johannsen.
 
 ## Descrição
 
